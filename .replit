@@ -1,0 +1,2 @@
+run = "npx hardhat console --network optimismgoerli"
+
